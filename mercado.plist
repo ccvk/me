@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.Mercado.com/uploads/app/bst.ipa</string>
+					<string>https://app.mercadolibre10.com/app/mercado.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://Mercado.com</string>
+					<string>https://www.mercadolibre10.com</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://Mercado.com</string>
+					<string>https://www.mercadolibre10.com</string>
 				</dict>
 			</array>
 			<key>metadata</key>
